@@ -82,3 +82,24 @@ Claude側のアップロード制限（10MB未満）に対応するため、各�
 
 - 内容: 各ASPの状況一覧（もしも／A8・楽天承認済み／Amazon直接は審査中／Hostinger申請済み審査中／Shopify未申請）、運用ルール（#PR必須・報酬額は公開禁止・テーマ一致の時だけリンク）、楽天の候補11点、X用文案2本
 - X担当へ: X側のアフィリ投稿運用をお願いします。A8のリンク生成は達哉のログインが要るので、必要な商品名を達哉に伝えてください
+---
+
+## 2026-10-30 楽天アフィリエイトのリンク生成済み（X投稿用）
+
+A8.net経由の楽天アフィリエイトで、投稿用リンクを生成しました。X担当は以下の文案をそのまま使って投稿できます（テーマに合う通常投稿に添える形で。冒頭の #PR は必須、削らないでください）。
+
+【X-1：AI動画生成リポジトリ紹介の回用】
+#PR
+AI動画ばっかり触ってたら、実写の素材撮るの下手くそになってへん？笑
+生成AIに食わせる元の動画、手ブレしてると仕上がりも残念なんよな。
+素材撮り用にジンバル1本あると全然ちゃうで。BONはOsmo Mobile系をチェック中や。
+https://rpx.a8.net/svt/ejp?a8mat=4BERA3+448YEQ+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0ea62065.34400275.0ea62066.204f04c0%2Fa26102975907_4BERA3_448YEQ_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fdji-shop%252F6941565997586%252F%26m%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fdji-shop%252F6941565997586%252F
+
+【X-2：LLM系リポジトリ紹介の回用】
+#PR
+ChatGPTの中身、ブラックボックスのまま使っててええんか？って思った人へ。
+『ゼロから作るDeep Learning』のLLM編出てたで。トークナイザからTransformerまで自分の手で作るやつ。
+使う側から作る側に回ると、リポジトリのREADMEの読解力が爆上がりするねん。
+https://rpx.a8.net/svt/ejp?a8mat=4BERA3+448YEQ+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26102975907_4BERA3_448YEQ_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F18483258%252F%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F18483258%252F
+
+Threads用（マイク／Python入門書）のリンクと文案は相棒側で保持し、Threads運用に組み込みます。Xでは上記2本を使ってください。投稿したら結果を達哉に報告してください。
