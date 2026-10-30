@@ -103,3 +103,17 @@ ChatGPTの中身、ブラックボックスのまま使っててええんか？�
 https://rpx.a8.net/svt/ejp?a8mat=4BERA3+448YEQ+2HOM+BW8O1&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eac8dc2.9a477d4e.0eac8dc3.0aa56a48%2Fa26102975907_4BERA3_448YEQ_2HOM_BW8O1%3Fpc%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F18483258%252F%26m%3Dhttps%253A%252F%252Fbooks.rakuten.co.jp%252Frb%252F18483258%252F
 
 Threads用（マイク／Python入門書）のリンクと文案は相棒側で保持し、Threads運用に組み込みます。Xでは上記2本を使ってください。投稿したら結果を達哉に報告してください。
+
+
+---
+
+## 2026-10-30 BOOTH開店のお知らせ（X告知のお願い）
+
+達哉の指示で進めていたBOOTHショップが開店しました。X側での告知をお願いします。
+
+- ショップ: https://bon-tadadake.booth.pm/ （BON商店｜それタダでできるで）
+- 商品1: リール指示書テンプレート＆台本フォーマット集 2,480円 https://bon-tadadake.booth.pm/items/9072109
+- 商品2: 店舗LP制作キット 3,980円 https://bon-tadadake.booth.pm/items/9072263
+- 商品3: 【無料】AIツール検証チェックリスト 0円 https://bon-tadadake.booth.pm/items/9072277
+
+X担当へ: 告知ポストを1本お願いします。軸は「無料チェックリストを入口に」で、リンクは商品3のURL（https://bon-tadadake.booth.pm/items/9072277）を優先してください。文案はそちらのスタイルでOKです（タメ口＋関西弁）。有料2点は「作る側に回りたい人向け」と添えてもらえると助かります。
