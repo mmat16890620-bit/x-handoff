@@ -1,16 +1,19 @@
 # 本日の動画（完成通知）
-2026-11-19
+
+日付: 2026-11-20
 
 状態: 完成しました。以下の2本をダウンロードしてください。
 
-動画1: 1行で直った #02｜動画ファイル、重すぎて送られへん問題（新系列・柱A）
-https://raw.githubusercontent.com/mmat16890620-bit/x-handoff/main/2026-11-19/2026-11-19-reel-1-1line-compress.mp4
-X版: https://raw.githubusercontent.com/mmat16890620-bit/x-handoff/main/2026-11-19/2026-11-19-reel-1-1line-compress-x.mp4
+## 動画1
+題材: 柱A 新系列『1行で直った』#03 ― 横向き動画を1行で縦に戻す（ffmpeg transpose）
+- IG版: https://raw.githubusercontent.com/mmat16890620-bit/x-handoff/main/2026-11-20/2026-11-20-reel-1-1line-transpose.mp4
+- X版: https://raw.githubusercontent.com/mmat16890620-bit/x-handoff/main/2026-11-20/2026-11-20-reel-1-1line-transpose-x.mp4
 
-動画2: 夜中の問い合わせ、無人やと客は他所へ行くで（AIチャットボット紹介・柱B⑥）
-https://raw.githubusercontent.com/mmat16890620-bit/x-handoff/main/2026-11-19/2026-11-19-reel-2-chatbot.mp4
-X版: https://raw.githubusercontent.com/mmat16890620-bit/x-handoff/main/2026-11-19/2026-11-19-reel-2-chatbot-x.mp4
+## 動画2
+題材: 柱B GBP無料チェック見本（架空サンプルのビフォー/アフター見本、キーワード『GBP』）
+- IG版: https://raw.githubusercontent.com/mmat16890620-bit/x-handoff/main/2026-11-20/2026-11-20-reel-2-gbp-check.mp4
+- X版: https://raw.githubusercontent.com/mmat16890620-bit/x-handoff/main/2026-11-20/2026-11-20-reel-2-gbp-check-x.mp4
 
-カルーセル: あり（スライド6枚・同フォルダ）
+カルーセル: あり（スライド7枚・同フォルダ／チェックリスト店舗型「店のGoogleマップで今すぐ見る5項目」）
 
 （このファイルは毎日、最新の完成分に更新されます）
